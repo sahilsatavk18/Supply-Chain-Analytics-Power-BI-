@@ -1,1 +1,1 @@
-# Supply-Chain-Analytics-Power-BI-
+## An interactive, multi-page Power BI dashboard built to analyze end-to-end supply chain and sales performance — giving Finance, Sales, and Marketing stakeholders a single source of truth for profitability, revenue, and regional trends
